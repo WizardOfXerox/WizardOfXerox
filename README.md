@@ -21,12 +21,12 @@ Welcome, traveler, to the digital sanctuary of **WizardOfXerox**. I shape pixels
 ## ⚡ Conjured Constructs (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=WizardOfXerox&show_icons=true&bg_color=090a0f&title_color=00f0ff&text_color=a0a5b5&icon_color=ff007f&hide_border=true" alt="WizardOfXerox's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WizardOfXerox&background=090a0f&ring=00f0ff&fire=ff007f&currStreakNum=ffffff&sideNums=a0a5b5&sideLabels=a0a5b5&dates=a0a5b5&hide_border=true" alt="WizardOfXerox's Streak Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=WizardOfXerox&show_icons=true&bg_color=090a0f&title_color=00f0ff&text_color=a0a5b5&icon_color=ff007f&hide_border=true" alt="WizardOfXerox's GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WizardOfXerox&background=090a0f&ring=00f0ff&fire=ff007f&currStreakNum=ffffff&sideNums=a0a5b5&sideLabels=a0a5b5&dates=a0a5b5&hide_border=true" alt="WizardOfXerox's Streak Stats" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WizardOfXerox&layout=compact&bg_color=090a0f&title_color=00f0ff&text_color=a0a5b5&icon_color=ff007f&hide_border=true" alt="WizardOfXerox's Top Languages" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WizardOfXerox&layout=compact&bg_color=090a0f&title_color=00f0ff&text_color=a0a5b5&icon_color=ff007f&hide_border=true" alt="WizardOfXerox's Top Languages" height="195" />
 </p>
 
 ---
