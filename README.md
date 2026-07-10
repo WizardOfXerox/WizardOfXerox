@@ -10,15 +10,15 @@
 
 ---
 
-## 🔮 The Codex of the Cyber-Wizard
+## 🔮 The Cyber-Wizard Codex
 
-> *"Within the silicon halls of replication, data is but light awaiting a conjurer's will."*
+> *"Within the silicon halls of replication, data is but light awaiting a programmer's will."*
 
-Welcome, traveler, to the digital sanctuary of **WizardOfXerox**. I shape pixels, craft services, and replicate virtual worlds using code. Here, technology and magic blend into robust software architectures.
+Welcome to the digital sanctuary of **WizardOfXerox**. I shape pixels, craft servers, and replicate virtual environments using code. Here, systems engineering and creative software design blend into robust architectures.
 
 ---
 
-## ⚡ Conjured Constructs (GitHub Stats)
+## ⚡ System Telemetry (GitHub Stats)
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=WizardOfXerox&show_icons=true&bg_color=090a0f&title_color=00f0ff&text_color=a0a5b5&icon_color=ff007f&hide_border=true" alt="WizardOfXerox's GitHub Stats" height="195" />
@@ -31,20 +31,20 @@ Welcome, traveler, to the digital sanctuary of **WizardOfXerox**. I shape pixels
 
 ---
 
-## 🎒 Arcane Disciplines (Tech Stack)
+## 🎒 Tech Stack & Runtimes
 
-| Category | Spells & Rituals |
+| Layer | Technologies & Frameworks |
 | :--- | :--- |
-| **Conjurations** <br> *(Frontend & UI)* | <img src="https://img.shields.io/badge/Spell-Next.js-090a0f?style=for-the-badge&logo=nextdotjs&logoColor=00f0ff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Spell-React-090a0f?style=for-the-badge&logo=react&logoColor=00f0ff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Spell-TypeScript-090a0f?style=for-the-badge&logo=typescript&logoColor=00f0ff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Spell-JavaScript-090a0f?style=for-the-badge&logo=javascript&logoColor=00f0ff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Spell-HTML5-090a0f?style=for-the-badge&logo=html5&logoColor=00f0ff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Spell-CSS3-090a0f?style=for-the-badge&logo=css3&logoColor=00f0ff&labelColor=251b47" /> |
-| **Alchemy** <br> *(Backend & Data)* | <img src="https://img.shields.io/badge/Spell-Python-090a0f?style=for-the-badge&logo=python&logoColor=ff007f&labelColor=251b47" /> <img src="https://img.shields.io/badge/Spell-Java-090a0f?style=for-the-badge&logo=openjdk&logoColor=ff007f&labelColor=251b47" /> <img src="https://img.shields.io/badge/Spell-Node.js-090a0f?style=for-the-badge&logo=nodedotjs&logoColor=ff007f&labelColor=251b47" /> <img src="https://img.shields.io/badge/Spell-PostgreSQL-090a0f?style=for-the-badge&logo=postgresql&logoColor=ff007f&labelColor=251b47" /> <img src="https://img.shields.io/badge/Spell-Docker-090a0f?style=for-the-badge&logo=docker&logoColor=ff007f&labelColor=251b47" /> |
-| **Divinations** <br> *(Systems & Tools)* | <img src="https://img.shields.io/badge/Tool-Git-090a0f?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Tool-Linux-090a0f?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Tool-Assembly-090a0f?style=for-the-badge&logo=assemblyscript&logoColor=ffffff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Tool-Vercel-090a0f?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Tool-Replit-090a0f?style=for-the-badge&logo=replit&logoColor=ffffff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Tool-VSCode-090a0f?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&labelColor=251b47" /> |
+| **Interfaces** <br> *(Frontend & UI)* | <img src="https://img.shields.io/badge/Interface-Next.js-090a0f?style=for-the-badge&logo=nextdotjs&logoColor=00f0ff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Interface-React-090a0f?style=for-the-badge&logo=react&logoColor=00f0ff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Interface-TypeScript-090a0f?style=for-the-badge&logo=typescript&logoColor=00f0ff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Interface-JavaScript-090a0f?style=for-the-badge&logo=javascript&logoColor=00f0ff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Interface-HTML5-090a0f?style=for-the-badge&logo=html5&logoColor=00f0ff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Interface-CSS3-090a0f?style=for-the-badge&logo=css3&logoColor=00f0ff&labelColor=251b47" /> |
+| **Engines & Data** <br> *(Backend & Databases)* | <img src="https://img.shields.io/badge/Engine-Python-090a0f?style=for-the-badge&logo=python&logoColor=ff007f&labelColor=251b47" /> <img src="https://img.shields.io/badge/Engine-Java-090a0f?style=for-the-badge&logo=openjdk&logoColor=ff007f&labelColor=251b47" /> <img src="https://img.shields.io/badge/Engine-Node.js-090a0f?style=for-the-badge&logo=nodedotjs&logoColor=ff007f&labelColor=251b47" /> <img src="https://img.shields.io/badge/Engine-PostgreSQL-090a0f?style=for-the-badge&logo=postgresql&logoColor=ff007f&labelColor=251b47" /> <img src="https://img.shields.io/badge/Engine-Docker-090a0f?style=for-the-badge&logo=docker&logoColor=ff007f&labelColor=251b47" /> |
+| **Platforms & Ops** <br> *(Systems & Infrastructure)* | <img src="https://img.shields.io/badge/Tool-Git-090a0f?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Tool-Linux-090a0f?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Tool-Assembly-090a0f?style=for-the-badge&logo=assemblyscript&logoColor=ffffff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Tool-Vercel-090a0f?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Tool-Replit-090a0f?style=for-the-badge&logo=replit&logoColor=ffffff&labelColor=251b47" /> <img src="https://img.shields.io/badge/Tool-VSCode-090a0f?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&labelColor=251b47" /> |
 
 ---
 
-## 📜 The Magic Scrolls (Projects)
+## 📜 Featured Repositories
 
 <details>
-<summary><b>🔮 Spellbook Replicator (Xerox Tools)</b></summary>
+<summary><b>🔮 System Replicator (Xerox Tools)</b></summary>
 <br>
 A digital replication script that copies file structures and injects modern templates automatically. Built with Python.
 <br>
@@ -52,7 +52,7 @@ A digital replication script that copies file structures and injects modern temp
 </details>
 
 <details>
-<summary><b>⚡ Arcane Grid Dashboard</b></summary>
+<summary><b>⚡ System Telemetry Dashboard</b></summary>
 <br>
 A glowing cyberpunk dashboard to track system health metrics with real-time updates.
 <br>
@@ -61,14 +61,13 @@ A glowing cyberpunk dashboard to track system health metrics with real-time upda
 
 ---
 
-## 🖥️ Wizard Terminal
+## 🖥️ System Diagnostics Terminal
 
 ```bash
-$ summon wizard --attributes
+$ connect --attributes
 {
   "class": "Cyber-Wizard",
-  "mana": "Full",
-  "specialties": ["Automation", "Digital Duplication", "SVG Spellcraft"],
+  "specialties": ["Automation", "Digital Duplication", "System Architecture"],
   "location": "The Ethernet Nexus"
 }
 
@@ -79,5 +78,5 @@ $ replicate --target repository
 ---
 
 <p align="center">
-  <sub>Cast with 💖 by <a href="https://github.com/WizardOfXerox">WizardOfXerox</a></sub>
+  <sub>Sustained with 💖 by <a href="https://github.com/WizardOfXerox">WizardOfXerox</a></sub>
 </p>
