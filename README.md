@@ -12,7 +12,7 @@
 
 ## 🔮 The Cyber-Wizard Codex
 
-> *"Within the silicon halls of replication, data is but light awaiting a programmer's will."*
+> "Curiosity-driven developer. Constantly experimenting with new tech, tinkering, and building things just to see how they work."
 
 Hello and welcome! 👋 I'm so glad you stopped by. I'm **WizardOfXerox**, a software developer passionate about shaping pixels, crafting server-side engines, and bringing digital environments to life. Make yourself at home and feel free to explore my creations!
 
