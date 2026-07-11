@@ -44,19 +44,51 @@ Hello and welcome! 👋 I'm so glad you stopped by. I'm **WizardOfXerox**, a sof
 ## 📜 Featured Repositories
 
 <details>
-<summary><b>🔮 System Replicator (Xerox Tools)</b></summary>
+<summary><b>🚀 WOX-Bin</b></summary>
 <br>
-A digital replication script that copies file structures and injects modern templates automatically. Built with Python.
+The ultimate secure pastebin alternative. Built with Next.js & Vercel, featuring local-first drafts, BookmarkFS, encrypted chat rooms, privacy-centric outbound redirects (NoRef), webhooks, and API keys.
 <br>
-<blockquote><code>Status: Stabilized</code></blockquote>
+<blockquote><code>Link: <a href="https://github.com/WizardOfXerox/WOX-Bin">WizardOfXerox/WOX-Bin</a></code></blockquote>
 </details>
 
 <details>
-<summary><b>⚡ System Telemetry Dashboard</b></summary>
+<summary><b>📦 bookmarkfs-2.0</b></summary>
 <br>
-A glowing cyberpunk dashboard to track system health metrics with real-time updates.
+Exploits Google Chrome's bookmark sync service to store files in the cloud for free—now upgraded with AES-GCM encryption, compression, and interactive previews for archives, PDFs, Markdown, and code.
 <br>
-<blockquote><code>Status: In-Development</code></blockquote>
+<blockquote><code>Link: <a href="https://github.com/WizardOfXerox/bookmarkfs-2.0">WizardOfXerox/bookmarkfs-2.0</a></code></blockquote>
+</details>
+
+<details>
+<summary><b>🔒 SSX-Share</b></summary>
+<br>
+Desktop-first media database, steganographic packer, and secure chat vault client for Windows HTA (ActiveX) and modern web browsers.
+<br>
+<blockquote><code>Link: <a href="https://github.com/WizardOfXerox/SSX-Share">WizardOfXerox/SSX-Share</a></code></blockquote>
+</details>
+
+<details>
+<summary><b>🏨 Emperor-Hotel</b></summary>
+<br>
+A local-first hotel reservation & management system built with Core PHP, MySQL, and Room XML (DOM). Features guest dashboards, administrative desk controls, dynamic financial reporting, and a hybrid structure.
+<br>
+<blockquote><code>Link: <a href="https://github.com/WizardOfXerox/Emperor-Hotel">WizardOfXerox/Emperor-Hotel</a></code></blockquote>
+</details>
+
+<details>
+<summary><b>🌐 Domain-Extension</b></summary>
+<br>
+Experimental network project designed to intercept packets and resolve fake custom Top Level Domains (TLDs) locally.
+<br>
+<blockquote><code>Link: <a href="https://github.com/WizardOfXerox/Domain-Extension">WizardOfXerox/Domain-Extension</a></code></blockquote>
+</details>
+
+<details>
+<summary><b>🏦 Xerox-Central-Bank</b></summary>
+<br>
+Xerox Central Network's Bank offers a secure credit card with customizable limits and automatic savings, as well as sustainability features. With biometric authentication and blockchain tech.
+<br>
+<blockquote><code>Link: <a href="https://github.com/WizardOfXerox/Xerox-Central-Bank">WizardOfXerox/Xerox-Central-Bank</a></code></blockquote>
 </details>
 
 ---
